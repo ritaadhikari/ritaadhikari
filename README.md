@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JAVA** and **RUST**
 
-- 📫 How to reach me **ritaadhikari9362gmail.com**
+- 📫 How to reach me **ritaadhikari936@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
